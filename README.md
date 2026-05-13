@@ -218,47 +218,6 @@ Beyond code, I lead technical decisions, mentor teammates, and bridge product, e
 
 ---
 
-## Experience
-
-### AI / ML Engineer · Multi-Agent Developer
-**YOUXEL Technology — Riyadh, KSA · Hybrid · Mar 2025 – Present**
-
-- Designed and deployed chatbots and **multi-agent platforms** (RFP Creator, Software Engineering Team, Content Team, Analysis Team)
-- Built **database, research, and validation agents**, including **medical LLM fine-tuning** for image and input processing
-- Automated workflows across **CRM, Google Sheets, Telegram, and WhatsApp** for business process optimization
-- Collaborated with backend, frontend, UI/UX, sales, and marketing teams to ensure smooth integration
-- Owned the **end-to-end lifecycle** of AI agents — creation, deployment, monitoring — in client platforms
-- Drive **architecture, performance, and cost decisions** across production AI pipelines
-- Serve as the **central AI decision-maker and technical reference for TORUK**, the company's flagship AI product
-- Mentor teammates and set engineering standards for **POC → production** transitions
-
-### AI Engineer (Project-Based)
-**Dec 2024 – Jan 2025**
-
-- Built a **CrewAI-based multi-agent system** with sequential workflow automation
-- Developed intelligent search query generation and **multi-platform product search** (Amazon, Jumia, Noon)
-- Automated product data extraction, comparison, and HTML procurement report generation
-- Implemented **multi-language support** for cross-region usability
-- Delivered a complete end-to-end procurement solution, from search to reporting
-
-### Data Analyst & BI
-**Creativa Hub Menofia — Egypt · Oct 2023 – Nov 2023**
-
-- Conducted analysis using **Excel, Power BI, and Power Query**, delivering clear insights and dashboards
-- Built interactive Power BI dashboards to track KPIs and performance trends
-- Cleaned, organized, and modeled datasets to ensure accuracy and analytical usability
-- Delivered actionable insights that supported business strategies and optimized performance
-
-### AI Data Analyst
-**National Telecommunication Institute (NTI) — Egypt · Jul 2023 – Aug 2023**
-
-- Applied AI-driven techniques to analyze large datasets and generate predictive insights
-- Cleaned and prepared data for ML models, ensuring high-quality inputs
-- Built dashboards and visualizations using **Power BI and Python** to communicate complex findings
-- Explored patterns and forecasting techniques to support data-driven decision making
-
----
-
 ## Currently Focused On
 
 - Owning **TORUK's** AI quality, performance, and direction end-to-end
