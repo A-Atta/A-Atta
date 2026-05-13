@@ -42,44 +42,6 @@ Beyond code, I lead technical decisions, mentor teammates, and bridge product, e
 
 ---
 
-## Featured Projects
-
-### 🧠 AI-Powered Retrieval-Augmented Generation (RAG) Application
-Production-ready RAG system for intelligent question answering with a clean, factory-based architecture.
-- **Stack:** FastAPI · MongoDB · PostgreSQL · Docker · Celery · SQLAlchemy + Alembic
-- **Architecture:** Modular design with **LLM Factory**, **Vector DB Factory**, **Semantic Search**, and a robust data pipeline
-- **Highlights:** RESTful APIs with nested routes, environment configs, version-controlled migrations, semantic testing, end-to-end traceability from ingestion to augmented answers
-- **Engineering practices:** Structured models, clear separation of concerns, reproducibility built in
-
-### 🏥 AI-Powered Medical Triage Agent
-Intelligent agent that automates health insurance claim evaluation with multi-agent reasoning.
-- **Workflow:** Personal Identifier Agent → Hospital & Network Checker → Medical Diagnosis Agent
-- **Outputs:** Standardized decisions — *Approved, Partially Approved, Pending, Rejected* — for auditability
-- **Validation:** Real-world scenarios (e.g., diabetes case: HbA1c tests and insulin approved, weight-loss drug rejected) showing accurate partial approvals
-- **Impact:** Removes manual review bottlenecks while keeping compliance explicit
-
-### 🛡️ AI-Powered Insurance Approval Agent
-Multi-agent system that validates membership, hospital eligibility, and medical justification.
-- **Agents:** Personal Identifier · Network & Hospital Checker · Medical Diagnosis
-- **Outputs:** Structured JSON for compliance and audit readiness
-- **Behavior:** Reliable partial-approval logic tested against real claim scenarios
-- **Design goal:** Decisions must be traceable, reversible, and human-auditable
-
-### 🛒 Multi-Agent Procurement Search System
-End-to-end procurement automation built on CrewAI.
-- **Stack:** CrewAI · Python · Sequential multi-agent workflow
-- **Features:** Intelligent query generation, multi-platform product search (Amazon, Jumia, Noon), automated data extraction and comparison, HTML procurement reports
-- **Localization:** Multi-language support for cross-region usability
-- **Outcome:** Cuts procurement research time from hours to minutes
-
-### 🤖 Internal Multi-Agent Platforms @ YOUXEL
-A family of internal agents powering RFP creation, software engineering, content, and analysis workflows.
-- **Scope:** Database, research, and validation agents — plus medical LLM fine-tuning for image and text inputs
-- **Integrations:** CRM, Google Sheets, Telegram, WhatsApp
-- **Ownership:** End-to-end lifecycle — creation, deployment, monitoring across client platforms
-
----
-
 ## Tech Stack
 
 **Languages**
